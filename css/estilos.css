@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+#footer 
+{
+background: #33A;
+color: chartreuse;
+text-align: center;
+}
